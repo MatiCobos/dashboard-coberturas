@@ -109,7 +109,7 @@ function App() {
     <div className="container">
       {/* HEADER CON LOGO Y TÍTULO */}
       <div className="header">
-        <img src="/logo.png" alt="Logo Empresa" className="logo" />
+        <img src="./logo.png" alt="Logo Empresa" className="logo" />
         <h1>Dashboard de Gestión de Coberturas</h1>
       </div>
 
