@@ -214,7 +214,7 @@ export const coberturasIniciales = [
       { paso: "Envío de soportes", completo: false }
     ],
     detalles: {
-    moto: "No",
+    moto: "Si",
     portalFinanciadores: "Sí",
     mailAviso: "No",
     portalSubida: "No",
@@ -237,7 +237,7 @@ export const coberturasIniciales = [
       { paso: "Envío de soportes", completo: false }
     ],
     detalles: {
-    moto: "No",
+    moto: "Si",
     portalFinanciadores: "Sí",
     mailAviso: "No",
     portalSubida: "No",
@@ -324,7 +324,7 @@ export const coberturasIniciales = [
       { paso: "Envío de soportes", completo: false }
     ],
     detalles: {
-    moto: "No",
+    moto: "Si",
     portalFinanciadores: "Sí",
     mailAviso: "No",
     portalSubida: "No",
@@ -547,7 +547,7 @@ export const coberturasIniciales = [
       { paso: "Envío de soportes", completo: false }
     ],
     detalles: {
-    moto: "Si",
+    moto: "No",
     portalFinanciadores: "Sí",
     mailAviso: "No",
     portalSubida: "No",
@@ -569,7 +569,7 @@ export const coberturasIniciales = [
       { paso: "Envío de soportes", completo: false }
     ],
     detalles: {
-    moto: "Si",
+    moto: "No",
     portalFinanciadores: "Sí",
     mailAviso: "No",
     portalSubida: `
