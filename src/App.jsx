@@ -110,7 +110,7 @@ function App() {
       {/* HEADER CON LOGO Y TÍTULO */}
       <div className="header">
         <img src="/dashboard-coberturas/logo.png" alt="Logo Empresa" className="logo" />
-        <h1>Dashboard de Gestión de Coberturas</h1>
+        <h1>Gestion de coberturas</h1>
       </div>
 
       {/* Menús desplegables y botón */}

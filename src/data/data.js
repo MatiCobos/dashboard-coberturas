@@ -214,15 +214,15 @@ export const coberturasIniciales = [
       { paso: "Envío de soportes", completo: false }
     ],
     detalles: {
-    moto: "No",
+    moto: "Si",
     portalFinanciadores: "Sí",
     mailAviso: "No",
     portalSubida: "No",
     soporteTXT: `
-    Si (Enviar soportes a LSoncini@cajaabogados.org.ar)
+    Enviar soportes a LSoncini@cajaabogados.org.ar
     `,
     soporteExcel: `
-    Si (Enviar soportes a LSoncini@cajaabogados.org.ar)
+    Enviar soportes a LSoncini@cajaabogados.org.ar
     `,
     soporteRefacturacion: "No"
   }
@@ -237,15 +237,15 @@ export const coberturasIniciales = [
       { paso: "Envío de soportes", completo: false }
     ],
     detalles: {
-    moto: "No",
+    moto: "Si",
     portalFinanciadores: "Sí",
     mailAviso: "No",
     portalSubida: "No",
     soporteTXT: `
-    Si (Enviar soportes a LSoncini@cajaabogados.org.ar)
+    Enviar soportes a LSoncini@cajaabogados.org.ar
     `,
     soporteExcel: `
-    Si (Enviar soportes a LSoncini@cajaabogados.org.ar)
+    Enviar soportes a LSoncini@cajaabogados.org.ar
     `,
     soporteRefacturacion: "No"
   }
